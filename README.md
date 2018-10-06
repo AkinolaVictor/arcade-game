@@ -1,7 +1,7 @@
    # ARCADE GAME PROJECT
    
   ## About Arcade Game.
-   *The objective of this game is to avoid all bugs and reach the top.
+   * The objective of this game is to avoid all bugs and reach the top.
     
   ## How to play
    * The game is played by moving the player to the top, trying to avoid all bugs.

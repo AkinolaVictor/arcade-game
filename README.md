@@ -7,8 +7,9 @@
    * The game is played by moving the player to the top, trying to avoid all bugs.
    * The player is navigated by using the up, down, left, snd right button on your device.
    * you can play the game [here](https://akinolavictor.github.io/arcade-game/)
+   * you can clone/download this game [here](https://github.com/AkinolaVictor/arcade-game) 
     
-  ## Playing instruction
+  ## Instruction
    * Once the player reaches the top, a message is displayed, you can then click to play again.
     
   ## How i made the arcade game
